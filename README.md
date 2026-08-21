@@ -6,9 +6,9 @@ This repository contains a numerical framework for simulating the heat equation 
 
 Group project for TMA4212 (Numerical Solution of Differential Equations) at NTNU, spring 2026. Shared here as a mirror of the original private repository, with course-specific material removed. Collaborators: [Haakan03](https://github.com/Haakan03), [selma-bl](https://github.com/selma-bl), [linebekkely](https://github.com/linebekkely).
 
-| 2D temperature evolution during curing | 3D mold, XY mid-plane slice |
+| 3D mold, XZ slice | 3D mold, XY mid-plane slice |
 |---|---|
-| ![2D temperature snapshots](output/snapshots_heateq_with_alpha.png) | ![3D XY-slice snapshots](output/3d_xy_snapshots.png) |
+| ![3D XZ-slice snapshots](output/3d_xz_snapshots.png) | ![3D XY-slice snapshots](output/3d_xy_snapshots.png) |
 
 #### Project Structure
 
