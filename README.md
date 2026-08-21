@@ -4,7 +4,7 @@
 
 This repository contains a numerical framework for simulating the heat equation coupled with chemical reaction kinetics (curing). The project uses Finite Difference Methods (FDM) with an implicit Backward Euler scheme to investigate temperature distribution and degree of cure ($\alpha$) in composite materials.
 
-Group project for TMA4212 (Numerical Solution of Differential Equations) at NTNU, spring 2026, with Hallvard Flatberg, Selma Blom, and Line Bekkely. Shared here as a mirror of the original private repository, with course-specific material removed.
+Group project for TMA4212 (Numerical Solution of Differential Equations) at NTNU, spring 2026. Shared here as a mirror of the original private repository, with course-specific material removed.
 
 | 2D temperature evolution during curing | 3D mold, XY mid-plane slice |
 |---|---|
